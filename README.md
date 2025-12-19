@@ -66,6 +66,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
+Presentations
+
+<img width="1280" height="720" alt="Hardware Security Fundamentals" src="https://github.com/user-attachments/assets/d8b51e2e-9723-4f13-893b-e5ab0f4d87fe" />
+<img width="1280" height="720" alt="DS PRESENTATION" src="https://github.com/user-attachments/assets/c837f382-35f4-45ee-9637-56c0c24777fb" />
+
+
 ## Projects
 - Detection Lab
 - SOC Automation Project
